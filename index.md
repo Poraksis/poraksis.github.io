@@ -4,3 +4,7 @@
 # Konu Başlıkları
 
 
+``` python
+from python import love
+print(love)
+```
