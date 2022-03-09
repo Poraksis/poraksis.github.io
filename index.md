@@ -16,13 +16,13 @@ Aşağıdaki konu başlıkları tek tek kaleme alınacaktır.
 
 
 
-[Http Nedir](./Dersler/http.html).
-[Standart Python gateway](./another-page.html).
-[Python PyPy mı Cython mu? ](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
-[Link to another page](./another-page.html).
+[Http Nedir](./Dersler/http.md).    
+[Standart Python gateway](./standart.md).    
+[Python PyPy mı Cython mu? ](./another-page.html).    
+[Link to another page](./another-page.html).    
+[Link to another page](./another-page.html).    
+[Link to another page](./another-page.html).   
+[Link to another page](./another-page.html).  
+[Link to another page](./another-page.html).   
+[Link to another page](./another-page.html).  
+[Link to another page](./another-page.html).   
